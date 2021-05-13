@@ -1,0 +1,7 @@
+{::options auto_ids="false" footnote_nr="5" syntax_highlighter="rouge" syntax_highlighter_opts="{formatter: CSV, line_numbers: true\}" /}
+
+```ruby
+def what?
+  42
+end
+```
